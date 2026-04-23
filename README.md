@@ -7,6 +7,6 @@ fedora should cover bazzite.
 
 - choose your distro
 - download raw file
-- create a directory like `/home/you/BeamMP-Launcher`
+- create a directory like `/home/you/BeamMP/`
 - put the file there, `chmod +x BeamMP-Launcher`
 - enjoy
