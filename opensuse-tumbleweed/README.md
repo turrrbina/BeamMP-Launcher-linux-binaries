@@ -1,1 +1,1 @@
-ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=87c5fcd327f11a8d7c8e420853a484dee10c7049, for GNU/Linux 4.3.0, with debug_info, not stripped 
+BeamMP-Launcher: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=022d2343309f8a36b6570ac12b9e0c0c5d492113, for GNU/Linux 4.3.0, with debug_info, not stripped
